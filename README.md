@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Bencomo Vega · Founder @ Ben&Co Business Intelligence</h1>
-<p align="center">Data Analyst & Junior Data Scientist — Helping businesses turn data into smart, actionable decisions</p>
+<p align="center">Data Analyst & Junior Data Scientist — Transforming businesses data into smarter decisions</p>
 
 <p align="center">
   <a href="https://www.bencobusiness.com"><img alt="Website" src="https://img.shields.io/badge/Web-bencobusiness.com-111?style=flat&logo=google-chrome" /></a>

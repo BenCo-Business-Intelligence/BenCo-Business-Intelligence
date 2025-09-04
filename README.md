@@ -2,7 +2,7 @@
   <img src="assets/logo.png" alt="Ben&Co Business Intelligence" width="120" />
 </p>
 
-<h1 align="center">Bencomo Vega · Founder @ Ben&Co Business Intelligence</h1>
+<h1 align="center">Bencomo Vega · Founder @ Ben&Co Business Intelligence (BBI)</h1>
 <p align="center">Data Analyst & Junior Data Scientist — Transforming businesses data into smarter decisions</p>
 
 <p align="center">
